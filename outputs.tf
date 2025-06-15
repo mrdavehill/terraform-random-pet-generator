@@ -1,3 +1,3 @@
 output "this" {
-  value = aws.random_pet.this
+  value = random_pet.this
 }
